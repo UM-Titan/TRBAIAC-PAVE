@@ -25,6 +25,7 @@ We expect you to respect the spirit of the competition and do not cheat.
 * We encourage teams to share their source codes and trained models. Python Notebooks are desirable for sharing codes.
 
 ## Reference
+## [The 1st Data Science for Pavements Challenge (arXiv 2022)](https://arxiv.org/abs/2206.04874)
 Corresponding paper to cite:
 ```
 @article{Ashkan2022,
