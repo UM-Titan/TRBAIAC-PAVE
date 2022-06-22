@@ -1,5 +1,5 @@
 # TRBAIAC-PAVE
-This is the benchmark model for TRB AI Committees Open Data Challenge on pavement distress detection and analysis. Top-down views of pavement image data containing 7 main distress types annotated with bounding boxes are provided. 
+This is the benchmark model for TRB AI Committees Open Data Challenge on pavement distress detection and analysis. Top-down views of pavement image data containing 7 main distress types annotated with bounding boxes are provided. The repo also includes a tutorial on how to train, test models and submit results for evaluation. The modeling framework uses a deep convolutional neural network model with an architecture borrowed from YOLOV5.
 
 <div align="center">
     <a>
@@ -7,6 +7,13 @@ This is the benchmark model for TRB AI Committees Open Data Challenge on pavemen
     </a>
     
 </div> 
+
+## <summary> HOW TO RUN </summary>
+
+```bash
+$ git clone -b main_dev https://github.com/UM-Titan/DSPS.git
+$ cd DSPS
+$ open and run dsps_main.ipnyb # google collaboratory is preffered
 
 ## <summary> RULES </summary>
 We expect you to respect the spirit of the competition and do not cheat.
