@@ -14,6 +14,7 @@ This is the benchmark model for TRB AI Committees Open Data Challenge on pavemen
 $ git clone -b main_dev https://github.com/UM-Titan/DSPS.git
 $ cd DSPS
 $ open and run dsps_main.ipnyb # google collaboratory is preffered
+```
 
 ## <summary> RULES </summary>
 We expect you to respect the spirit of the competition and do not cheat.
