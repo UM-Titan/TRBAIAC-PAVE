@@ -23,3 +23,18 @@ We expect you to respect the spirit of the competition and do not cheat.
 * Manually annotating test datasets is forbidden.
 * Pre-trained models are allowed in the competition.
 * We encourage teams to share their source codes and trained models. Python Notebooks are desirable for sharing codes.
+
+## Reference
+Corresponding paper to cite:
+```
+@article{Ashkan2022,
+  author    = {Ashkan Behzadian, Tanner Wambui Muturi, Tianjie Zhang, Hongmin Kim, Amanda Mullins, Yang Lu, Neema Jasika Owor, Yaw Adu-Gyamfi, William Buttlar, Majidifard Hamed, Armstrong Aboah, David Mensching, Spragg Robert, Matthew Corrigan, Jack Youtchef, Dave Eshan},
+  title     = {The 1st Data Science for Pavements Challenge},
+  journal   = {arXiv e-prints},
+  volume    = {abs/2206.04874},
+  year      = {2022},
+  url       = {https://arxiv.org/pdf/2206.04874},
+  eid       = {	arXiv:2206.04874},
+  eprint    = {2206.04874}
+}
+```
