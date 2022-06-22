@@ -11,9 +11,9 @@ This is the benchmark model for TRB AI Committees Open Data Challenge on pavemen
 ## <summary> HOW TO RUN </summary>
 
 ```bash
-$ git clone -b main_dev https://github.com/UM-Titan/DSPS.git
-$ cd DSPS
-$ open and run dsps_main.ipnyb # google collaboratory is preffered
+$ git clone 'https://github.com/UM-Titan/TRBAIAC-PAVE.git'
+$ cd 'TRBAIAC-PAVE'
+$ open and run aiac_main.ipynb # google collaboratory is preffered
 ```
 
 ## <summary> RULES </summary>
