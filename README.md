@@ -1,1 +1,2 @@
 # TRBAIAC-PAVE
+This is the first DSPS student competition on the application of AI for pavement condition monitoring. The competition will follow a data-centric model instead of the traditional model-centric approaches. Top-down views of pavement image data containing 7 main distress types annotated with bounding boxes and polygons will be provided. Participants will systematically change/enhance datasets provided using various data cleaning, annotation, augmentation strategies to improve the accuracy of a predefined model architecture.
